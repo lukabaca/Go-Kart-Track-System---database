@@ -1,2 +1,3 @@
-# Praca_inzynierska_baza
-Baza danych wraz z procedurami
+# Go-Kart Track System
+Database schema, file including stored procedures, few test inserts.
+Database used is MySQL.
